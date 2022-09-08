@@ -5,4 +5,4 @@
 ## Using Git
 
 - Clonning a repository 
-'git clone repository_url'
+`git clone repository_url`
